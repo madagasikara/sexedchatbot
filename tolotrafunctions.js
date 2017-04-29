@@ -72,10 +72,6 @@ module.exports = {
                                 "type": "postback",
                                 "payload": "get_content-child_of-anatomy",
                                 "title": "Read more"
-                            }, {
-                                "type": "postback",
-                                "title": "Later",
-                                "payload": "later",
                             }],
                         }, {
                             "title": "Contraception",
@@ -85,10 +81,6 @@ module.exports = {
                                 "type": "postback",
                                 "payload": "get_content-child_of-contraception",
                                 "title": "Read more"
-                            }, {
-                                "type": "postback",
-                                "title": "Later",
-                                "payload": "later",
                             }],
                         },
                             {
@@ -99,10 +91,6 @@ module.exports = {
                                     "type": "postback",
                                     "payload": "get_content-child_of-puberty",
                                     "title": "Read more"
-                                }, {
-                                    "type": "postback",
-                                    "title": "Later",
-                                    "payload": "later",
                                 }],
                             },
                             {
@@ -113,10 +101,6 @@ module.exports = {
                                     "type": "postback",
                                     "title": "Read more",
                                     "payload": "get_content-child_of-sexual_orientation",
-                                }, {
-                                    "type": "postback",
-                                    "title": "Later",
-                                    "payload": "later",
                                 }],
                             },
                             {
@@ -127,10 +111,6 @@ module.exports = {
                                     "type": "postback",
                                     "title": "Read more",
                                     "payload": "get_content-child_of-stds",
-                                }, {
-                                    "type": "postback",
-                                    "title": "Later",
-                                    "payload": "later",
                                 }],
                             }]
                     }
