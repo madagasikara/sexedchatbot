@@ -338,7 +338,7 @@ function decideMessagePostBack(sender, raw_postback) {
 
     if (raw_postback === 'ask_questions') {
         console.log('question attempt by ', sender);
-        sendTextMessage(sender, "You'll soon be able to send a question as a message 👇☺️ Stay Tuned!")
+        sendTextMessage(sender, "You'll soon be able to send anonymous questions to the forum here 👇☺️ Stay Tuned!")
         //Options: Post Question, Cancel Question| All Questions are posted anonymously.
     }
 
